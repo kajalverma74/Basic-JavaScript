@@ -68,8 +68,8 @@ function ram(value = ["kajal","anjali"]){
 ram()
 
 
-function kajal(name =["ram"]){
+function n(name =["ram"]){
     console.log("..................",name)
 }
 
-kajal();
+n();
