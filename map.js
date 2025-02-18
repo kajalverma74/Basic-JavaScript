@@ -166,3 +166,8 @@ var x = fruits.toString();
 console.log(fruits);
 console.log(x);
 
+
+var fruits = ["sdfghjk","vbnm","sdfghjk","dfghjkl","dfghj"];
+var x = fruits.toString();
+console.log(fruits);
+console.log(x);
