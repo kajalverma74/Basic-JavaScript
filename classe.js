@@ -66,3 +66,10 @@ function ram(value = ["kajal","anjali"]){
     console.log("------------------",value)
 }
 ram()
+
+
+function kajal(name =["ram"]){
+    console.log("..................",name)
+}
+
+kajal();
