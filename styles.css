@@ -1,0 +1,9 @@
+.myclass{
+    height: 300px;
+    border-radius: 2px solid red;
+    margin: 12px;
+    text-align: center;
+    color: #ff7f7f;
+    font-size: 20px;
+    background-color: aqua;
+}

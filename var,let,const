@@ -1,0 +1,22 @@
+var
+Reassignability: Can be reassigned.
+Redeclaration: Can be redeclared within the same scope.
+Scope: Function-scoped.
+
+let
+Reassignability: Can be reassigned.
+Redeclaration: Cannot be redeclared within the same scope.
+Scope: Block-scoped.
+
+const
+Reassignability: Cannot be reassigned.
+Redeclaration: Cannot be redeclared within the same scope.
+Scope: Block-scoped.
+This summary accurately captures the behavior of var, let, and const in JavaScript.
+
+
+
+
+
+
+
