@@ -166,3 +166,6 @@ var x = fruits.toString();
 console.log(fruits);
 console.log(x);
 
+const method = [2,3,4]
+const method1 = method.map(num => num * 3)
+console.log(method)
